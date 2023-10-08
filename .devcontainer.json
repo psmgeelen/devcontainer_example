@@ -1,0 +1,14 @@
+{
+  "name": "Python Poetry",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.addColons": true
+  },
+  "extensions": [
+    "ms-python.python",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "coenraads.bracket-pair-colorizer-2"
+  ],
+  "forwardPorts": [8000]
+}
