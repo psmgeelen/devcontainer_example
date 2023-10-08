@@ -1,2 +1,3 @@
 # devcontainer_example
-Testing devcontainers in vscode with poetry
+
+This is a simple repo to test the Dev Container capability of VS Code.
